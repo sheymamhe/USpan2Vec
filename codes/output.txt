@@ -1,0 +1,23 @@
+seq6	 7
+seq7	 4
+seq5	 4
+seq4	 3
+seq7	 3
+seq1	 3
+seq2	 1 4
+seq6	 4
+seq1	 2
+seq1	 1 4
+seq3	 3
+seq3	 1
+seq7	 5 7
+seq2	 3
+seq3	 7
+seq5	 3
+seq2	 7
+seq6	 3
+seq4	 2
+seq4	 4
+seq5	 5
+seq6	 2
+seq5	 2
